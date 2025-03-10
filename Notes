@@ -3,14 +3,11 @@
   # -- Sway Ecosystem++ -- #
     
     sway
-    swaybg
-    swaync
-    swaylock
-    swayidle
-    xwayland
-    autotiling 
+    swayfx
+    nwg-shell
     pywal16
     colorthief
+
 swaymsg seat seat0 xcursor_theme Bibata-Modern-Ice 20 
   
   # -- Starter Apps -- #
