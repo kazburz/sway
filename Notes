@@ -5,14 +5,21 @@
     
     swayfx
     autotiling
-    policy kit
+    lxqt-policykit
     swaync
     swaybg
     pywal16
     colorthief
     foot
-swaymsg seat seat0 xcursor_theme Bibata-Modern-Ice 20 
-  
+    swaymsg seat seat0 xcursor_theme Bibata-Modern-Ice 20 
+  # -- Theming stuff -- #
+    #fonts
+      yay -S noto-fonts-emoji ttf-segoe-ui-variable ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-hack-nerd ttf-terminus-nerd ttf-jetbrains-mono-nerd ttf-firacode-nerd ttf-victor-mono-nerd ttf-material-design-icons ttf-font-awesome powerline-fonts-git
+    #cursor
+      yay -S bibata-cursor-theme-bin
+    #Gtk / Qt
+      lxappearance
+      kvantum
   # -- Starter Apps -- #
 
     firefox
