@@ -2,12 +2,15 @@
   
   # -- Sway Ecosystem++ -- #
     
-    sway
+    
     swayfx
-    nwg-shell
+    autotiling
+    policy kit
+    swaync
+    swaybg
     pywal16
     colorthief
-
+    foot
 swaymsg seat seat0 xcursor_theme Bibata-Modern-Ice 20 
   
   # -- Starter Apps -- #
